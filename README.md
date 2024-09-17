@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pyna Yuva Surya</h1>
 <h3 align="center">I am interested frontend development</h3>
-
+<img align="right" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=23a9mq090&label=Profile%20views&color=0e75b6&style=flat" alt="23a9mq090" /> </p>
 
 - 🔭 I’m currently working on *JAVA*
